@@ -1,2 +1,3 @@
 -init: apt install gcc && \
- apt install gdb
+ apt install gdb && \
+ apt install c++
