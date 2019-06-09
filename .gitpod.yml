@@ -1,0 +1,2 @@
+-init: apt install gcc && \
+ apt install gdb
